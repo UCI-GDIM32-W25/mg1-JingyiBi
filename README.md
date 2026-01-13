@@ -7,5 +7,3 @@ My MG1 implementation uses the Player class to handle movement and spawn the Bas
 
 
 ## Open-Source Assets
-If you added any other outside assets, list them here!
-- [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
